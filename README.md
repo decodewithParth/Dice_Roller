@@ -13,3 +13,9 @@ When you hit the roll button it will show the rolled dice having number of dots 
 
 
 end that's all about this app , anykind of contribution or suggestions will most welcomed from depth of my heart.
+
+
+Some insights of app working
+
+https://github.com/decodewithParth/Dice_Roller/assets/137977825/78b69536-9a72-45e0-9c2e-311482da738c
+
